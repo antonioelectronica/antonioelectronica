@@ -55,24 +55,13 @@ Developing an optimized PCB for an **embedded AI system**, including a **12V to 
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect With Me  
-
-📩 Email: **your.email@example.com**  
-🔗 LinkedIn: [yourlinkedin](https://www.linkedin.com/in/yourusername)  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+ 
+🔗 LinkedIn: [yourlinkedin](https://www.linkedin.com/in/antojosegon/)  
 
 ---
 
 ### ⚡ Fun Fact  
 Did you know that **plants can "talk" to each other** using electrical signals? My goal is to develop technology that helps them "communicate" with us! 🌿🤖  
 
----
 
-This README will make your GitHub profile stand out as a professional and showcase your expertise effectively. Let me know if you want any modifications! 🚀  
