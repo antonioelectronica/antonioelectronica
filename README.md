@@ -57,7 +57,7 @@ Developing an optimized PCB for an **embedded AI system**, including a **12V to 
 
 ## 📫 Connect With Me  
  
-🔗 LinkedIn: [yourlinkedin](https://www.linkedin.com/in/antojosegon/)  
+🔗 LinkedIn: [mylinkedin](https://www.linkedin.com/in/antojosegon/)  
 
 ---
 
